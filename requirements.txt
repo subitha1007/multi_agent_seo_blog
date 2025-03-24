@@ -1,0 +1,9 @@
+google-generativeai  # For AI-powered content generation
+openai  # If using OpenAI's GPT models
+requests  # For making API calls
+beautifulsoup4  # If you're doing web scraping for SEO
+tiktoken  # Helps with token counting (useful for OpenAI API)
+python-dotenv  # For managing API keys securely
+nltk  # If you use NLP for keyword analysis
+scikit-learn  # For any ML-based SEO analysis
+pandas  # If dealing with structured data
